@@ -5,7 +5,7 @@
     <img align="right" alt="Coading" width="510" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavanwp&label=Profile%20views&color=0e75b6&style=flat" alt="gavanwp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/berfinnkaynakk1" target="blank"><img src="https://img.shields.io/twitter/follow/gavanwp?logo=twitter&style=for-the-badge" alt="gavanwp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/berfinnkaynakk1" target="blank"><img src="https://img.shields.io/twitter/follow/gavanwp?logo=twitter&style=for-the-badge" alt="berfinnkaynakk1" /></a> </p>
 
 
 
